@@ -1,23 +1,19 @@
-# Claude AI Integration Prompts
+# Prompts for Claude AI
 
-## Clarifying Goals
-- What are the primary objectives you want to achieve with this project?
-- Who are the key stakeholders involved, and what are their expectations?
-- How will success be measured for this project?
+## Analyzing Websites
+1. **Website Overview**: "Provide a summary of the website, including its purpose, target audience, and main features."
+2. **User Experience Review**: "Analyze the user experience of the website. What design elements contribute to or detract from usability?"
+3. **SEO Evaluation**: "Evaluate the website’s SEO performance. What keywords are they targeting, and how well are they optimized for search engines?"
 
-## Analyzing Conversion / Mobile / UX / Speed / SEO
-- Can you provide insights on the current conversion rates and what areas may need improvement?
-- What mobile usability issues have been identified, and how can they be addressed?
-- How does the current user experience align with the target audience's needs?
-- What speed optimizations can be implemented to enhance performance?
-- Are there specific SEO metrics that need attention to improve visibility?
-
-## Competitor Comparison
-- Who are the main competitors in the market, and what strategies are they employing?
-- What strengths and weaknesses do our competitors have compared to our offering?
-- How can we differentiate our product/service from competitors?
+## Understanding Requirements
+1. **Project Requirements Gathering**: "What are the key requirements for a new feature on the website? Please outline any specific user needs or expectations."
+2. **Scope Definition**: "Define the scope of the project. What are the must-have features versus nice-to-have features?"
+3. **Stakeholder Input**: "Identify the key stakeholders for this project and summarize their roles and expectations."
 
 ## Generating Structured Task Briefs
-- What are the key deliverables required for this project?
-- What timeline and milestones should be established for task completion?
-- Who is responsible for each task, and what resources are needed?
+1. **Task Brief Template**: "Create a structured task brief for the development of a new webpage. Include sections for objectives, deliverables, and timelines."
+2. **Task Breakdown**: "Break down the task of implementing a new feature into actionable steps."
+3. **Prioritization Matrix**: "Help prioritize tasks based on urgency and importance, considering the overall project timeline."
+
+---
+This document contains prompts designed to enhance the use of Claude AI for tasks related to website analysis, understanding project requirements, and generating detailed task briefs.
