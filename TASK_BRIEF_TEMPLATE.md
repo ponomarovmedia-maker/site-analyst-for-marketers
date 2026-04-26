@@ -1,25 +1,30 @@
-# TASK BRIEF TEMPLATE
+# Task Brief Template
 
-## Priority
-- Must
-- Should
-- Nice
+## Project Information  
+**Project Name:**  
+**Project Description:**  
+**Project Owner:**  
 
-## Category
-- Design
-- Functionality
-- Content
-- SEO
+## Priority-Based Tasks  
+### MUST  
+-  
+### SHOULD  
+-  
+### NICE  
+-  
 
-## Complexity
-- S
-- M
-- L
+## Detailed Specifications  
+* Include any specific requirements or notes about the project.  
 
-## Description
+## Competitor Insights  
+* Provide analysis of major competitors and their strengths/weaknesses.  
 
-Provide a detailed description of the task here.
+## Success Metrics  
+* Clearly define what success looks like for the project.  
 
-## Wireframe Description
+## Constraints  
+* Outline any limitations or constraints related to the project.  
 
-Insert wireframe description or link to wireframe here.
+## Approval Sign-Off  
+* Approval from:  
+* Date of Approval:  
