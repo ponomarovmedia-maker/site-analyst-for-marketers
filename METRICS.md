@@ -1,13 +1,10 @@
-# Priority-Based Metrics Table
+# Metrics Documentation
 
-| Priority  | Metrics                             |
-|-----------|-------------------------------------|
-| 🔴 Mandatory | Conversion CTA/forms, Mobile optimization |
-| 🟡 Important | UX/UI, Loading speed                |
-| 🟢 Additional | SEO                                |
+This document outlines the various metrics that are essential for analyzing the performance of our site, along with their priority levels.
 
-## Additional Info
-
-- **Mandatory Metrics** are essential for basic functionality and user conversion.
-- **Important Metrics** enhance the user experience and performance.
-- **Additional Metrics** support overall optimization but are not critical.
+## Priority Levels:
+- **Conversion**: Must
+- **Mobile Optimization**: Must
+- **UX/UI**: Should
+- **Speed**: Should
+- **SEO**: Nice to Have
